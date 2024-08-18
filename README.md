@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/yadav-ved/LeetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/yadav-ved/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/yadav-ved/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/yadav-ved/LeetCode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,11 +17,13 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/yadav-ved/LeetCode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/yadav-ved/LeetCode/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/yadav-ved/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/yadav-ved/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/yadav-ved/LeetCode/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
