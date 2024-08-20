@@ -39,6 +39,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yadav-ved/LeetCode/tree/master/0022-generate-parentheses) |
 | [0264-ugly-number-ii](https://github.com/yadav-ved/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/yadav-ved/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/yadav-ved/LeetCode/tree/master/1240-stone-game-ii) |
@@ -49,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yadav-ved/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/yadav-ved/LeetCode/tree/master/0049-group-anagrams) |
 ## Prefix Sum
 |  |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/yadav-ved/LeetCode/tree/master/1240-stone-game-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/yadav-ved/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
