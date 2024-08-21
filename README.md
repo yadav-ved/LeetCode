@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/yadav-ved/LeetCode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yadav-ved/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/yadav-ved/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/yadav-ved/LeetCode/tree/master/0075-sort-colors) |
 ## Sorting
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yadav-ved/LeetCode/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yadav-ved/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
