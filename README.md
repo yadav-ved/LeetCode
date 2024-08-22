@@ -34,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/yadav-ved/LeetCode/tree/master/0029-divide-two-integers) |
 | [0264-ugly-number-ii](https://github.com/yadav-ved/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/yadav-ved/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/yadav-ved/LeetCode/tree/master/1240-stone-game-ii) |
@@ -79,5 +80,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/yadav-ved/LeetCode/tree/master/0029-divide-two-integers) |
 | [0476-number-complement](https://github.com/yadav-ved/LeetCode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
