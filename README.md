@@ -76,4 +76,8 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/yadav-ved/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/yadav-ved/LeetCode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
