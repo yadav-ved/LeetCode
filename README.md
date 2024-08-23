@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/yadav-ved/LeetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/yadav-ved/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/yadav-ved/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/yadav-ved/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/yadav-ved/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yadav-ved/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yadav-ved/LeetCode/tree/master/0075-sort-colors) |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/yadav-ved/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/yadav-ved/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
