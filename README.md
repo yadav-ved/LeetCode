@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yadav-ved/LeetCode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/yadav-ved/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/yadav-ved/LeetCode/tree/master/0049-group-anagrams) |
 | [0564-find-the-closest-palindrome](https://github.com/yadav-ved/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yadav-ved/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
