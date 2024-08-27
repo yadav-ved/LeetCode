@@ -15,6 +15,7 @@
 | [0056-merge-intervals](https://github.com/yadav-ved/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yadav-ved/LeetCode/tree/master/0075-sort-colors) |
 | [1240-stone-game-ii](https://github.com/yadav-ved/LeetCode/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/yadav-ved/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/yadav-ved/LeetCode/tree/master/0264-ugly-number-ii) |
+| [1325-path-with-maximum-probability](https://github.com/yadav-ved/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## String
 |  |
 | ------- |
@@ -125,4 +127,12 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/yadav-ved/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/yadav-ved/LeetCode/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/yadav-ved/LeetCode/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
