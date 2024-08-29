@@ -24,6 +24,7 @@
 | [0036-valid-sudoku](https://github.com/yadav-ved/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/yadav-ved/LeetCode/tree/master/0049-group-anagrams) |
 | [0264-ugly-number-ii](https://github.com/yadav-ved/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/yadav-ved/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [0110-balanced-binary-tree](https://github.com/yadav-ved/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yadav-ved/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yadav-ved/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/yadav-ved/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/yadav-ved/LeetCode/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
@@ -146,6 +148,7 @@
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/yadav-ved/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/yadav-ved/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
@@ -160,5 +163,6 @@
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/yadav-ved/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/yadav-ved/LeetCode/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
