@@ -17,6 +17,7 @@
 | [1240-stone-game-ii](https://github.com/yadav-ved/LeetCode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/yadav-ved/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2035-count-sub-islands](https://github.com/yadav-ved/LeetCode/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/yadav-ved/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/yadav-ved/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/yadav-ved/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/yadav-ved/LeetCode/tree/master/0036-valid-sudoku) |
 | [2035-count-sub-islands](https://github.com/yadav-ved/LeetCode/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/yadav-ved/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Stack
 |  |
 | ------- |
