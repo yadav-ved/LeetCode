@@ -16,6 +16,7 @@
 | [0075-sort-colors](https://github.com/yadav-ved/LeetCode/tree/master/0075-sort-colors) |
 | [1240-stone-game-ii](https://github.com/yadav-ved/LeetCode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/yadav-ved/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yadav-ved/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/yadav-ved/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yadav-ved/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/yadav-ved/LeetCode/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yadav-ved/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
 | ------- |
@@ -103,12 +105,14 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/yadav-ved/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yadav-ved/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yadav-ved/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yadav-ved/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yadav-ved/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yadav-ved/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix
 |  |
 | ------- |
